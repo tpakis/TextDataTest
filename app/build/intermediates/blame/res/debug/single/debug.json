@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\3piCerberus\\AndroidStudioProjects\\TextDataTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\3piCerberus\\AndroidStudioProjects\\TextDataTest\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\3piCerberus\\AndroidStudioProjects\\TextDataTest\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\3piCerberus\\AndroidStudioProjects\\TextDataTest\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\3piCerberus\\AndroidStudioProjects\\TextDataTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\3piCerberus\\AndroidStudioProjects\\TextDataTest\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\3piCerberus\\AndroidStudioProjects\\TextDataTest\\app\\build\\intermediates\\res\\merged\\debug\\raw_logo1large.png.flat",
+        "source": "C:\\Users\\3piCerberus\\AndroidStudioProjects\\TextDataTest\\app\\src\\main\\res\\raw\\logo1large.png"
+    },
+    {
+        "merged": "C:\\Users\\3piCerberus\\AndroidStudioProjects\\TextDataTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\3piCerberus\\AndroidStudioProjects\\TextDataTest\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\3piCerberus\\AndroidStudioProjects\\TextDataTest\\app\\build\\intermediates\\res\\merged\\debug\\raw_bixolon.png.flat",
+        "source": "C:\\Users\\3piCerberus\\AndroidStudioProjects\\TextDataTest\\app\\src\\main\\res\\raw\\bixolon.png"
+    },
+    {
+        "merged": "C:\\Users\\3piCerberus\\AndroidStudioProjects\\TextDataTest\\app\\build\\intermediates\\res\\merged\\debug\\raw_logo1small.png.flat",
+        "source": "C:\\Users\\3piCerberus\\AndroidStudioProjects\\TextDataTest\\app\\src\\main\\res\\raw\\logo1small.png"
+    },
+    {
+        "merged": "C:\\Users\\3piCerberus\\AndroidStudioProjects\\TextDataTest\\app\\build\\intermediates\\res\\merged\\debug\\raw_spicejet_icon.png.flat",
+        "source": "C:\\Users\\3piCerberus\\AndroidStudioProjects\\TextDataTest\\app\\src\\main\\res\\raw\\spicejet_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\3piCerberus\\AndroidStudioProjects\\TextDataTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\3piCerberus\\AndroidStudioProjects\\TextDataTest\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\3piCerberus\\AndroidStudioProjects\\TextDataTest\\app\\build\\intermediates\\res\\merged\\debug\\raw_logo2large.png.flat",
+        "source": "C:\\Users\\3piCerberus\\AndroidStudioProjects\\TextDataTest\\app\\src\\main\\res\\raw\\logo2large.png"
+    },
+    {
+        "merged": "C:\\Users\\3piCerberus\\AndroidStudioProjects\\TextDataTest\\app\\build\\intermediates\\res\\merged\\debug\\raw_bixolon_logo_black_500.png.flat",
+        "source": "C:\\Users\\3piCerberus\\AndroidStudioProjects\\TextDataTest\\app\\src\\main\\res\\raw\\bixolon_logo_black_500.png"
+    },
+    {
+        "merged": "C:\\Users\\3piCerberus\\AndroidStudioProjects\\TextDataTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\3piCerberus\\AndroidStudioProjects\\TextDataTest\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\3piCerberus\\AndroidStudioProjects\\TextDataTest\\app\\build\\intermediates\\res\\merged\\debug\\raw_logo2small.png.flat",
+        "source": "C:\\Users\\3piCerberus\\AndroidStudioProjects\\TextDataTest\\app\\src\\main\\res\\raw\\logo2small.png"
+    }
+]
